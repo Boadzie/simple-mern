@@ -1,6 +1,6 @@
-# MERN - Simple Setup Check
+# Simple MERN 
 
-### [Live Demo](http://simplesetup.mernbook.com/ "MERN Simple Setup")
+#### A simple MERN stack template
 
 #### What you need to run this code
 1. Node (8.11.1)
